@@ -440,7 +440,8 @@ input[type="submit"]:hover {
 }
 
 .social .icon:hover {
-	color: #12BAAD;
+	color: #b899e5;
+	transform: scale(3.5) rotate(360deg);
 }
 
 .row li .fa {
